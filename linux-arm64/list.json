@@ -1,0 +1,13 @@
+{
+    "builds": [
+        {
+            "path": "solc-linux-arm64-v0.8.30+commit.27de0dbd",
+            "version": "0.8.30",
+            "build": "commit.27de0dbd",
+            "longVersion": "0.8.30+commit.27de0dbd",
+            "keccak256": "0x46e8ecfe5743e97acbbf65fc2f32ca4841684dbcb2099d5c395194e314e19f76",
+            "sha256": "0x6546fa80a403b85d0ba956c8cd20c3024e7575b1434705b057a76122a98824ff",
+            "urls": []
+        }
+    ]
+}
